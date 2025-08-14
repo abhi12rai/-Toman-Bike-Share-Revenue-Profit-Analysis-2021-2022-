@@ -75,7 +75,8 @@ PowerBI_Dashboard/ – .pbix file with visualizations
 
 README.md – Project documentation
 
-📊 Full Interactive Dashboard Screenshot:
+## 📊 Dashboard Preview
+![Toman Bike Share Dashboard](PowerBI_Dashboard/dashboard_screenshot.png)
 
 💡 Key Takeaway:
 Maintaining operational efficiency while leveraging strategic pricing can sustain growth and improve profitability.
