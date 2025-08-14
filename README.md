@@ -78,6 +78,8 @@ README.md – Project documentation
 ## 📊 Dashboard Preview
 ![Toman Bike Share Dashboard](dashboard_screenshot.png/Toman_bike_Cover_image.png)
 ![Toman Bike Share Dashboard](dashboard_screenshot.png/Toma_bike_insight_image.png)
+![Toman Bike Share Dashboard](dashboard_screenshot.png/Toman_bike_sql_syntax_image.png)
+
 
 💡 Key Takeaway:
 Maintaining operational efficiency while leveraging strategic pricing can sustain growth and improve profitability.
